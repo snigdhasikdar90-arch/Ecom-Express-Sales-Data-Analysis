@@ -35,7 +35,7 @@ This project presents an E-commerce Sales Data Analysis Dashboard designed using
 
 📷 Dashboard Snapshot
 
-(Include the dashboard image here)
+(https://github.com/snigdhasikdar90-arch/Ecom-Express-Sales-Data-Analysis/blob/main/Screenshot%202025-11-21%20105043.png?raw=true)
 
 🚀 Conclusion
 
@@ -43,5 +43,5 @@ This dashboard empowers businesses to identify key revenue drivers, monitor perf
 
 🤝 Connect with Me
 
-💼 LinkedIn: Your Link
-📧 Email: Your email
+💼 LinkedIn: 
+📧 Email: snigdhasikdar90@gmail.com
