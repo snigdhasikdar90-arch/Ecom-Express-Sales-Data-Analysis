@@ -43,5 +43,5 @@ This dashboard empowers businesses to identify key revenue drivers, monitor perf
 
 🤝 Connect with Me
 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/snigdha-sikdar-85b391377
 📧 Email: snigdhasikdar90@gmail.com
